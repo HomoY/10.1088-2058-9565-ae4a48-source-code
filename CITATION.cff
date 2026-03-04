@@ -19,9 +19,10 @@ repository-code: 'https://github.com/HomoY/DGMVP'
 abstract: |
   The source code supporting the paper:
 
-      Yuan, H., Long, C. K., Lepage, H. V., & Barnes, C. H. W. (2024). Quantifying 
-      the advantages of applying quantum approximate algorithms to portfolio optimisation. 
-      arXiv preprint arXiv:2410.16265. https://arxiv.org/abs/2410.16265
+      Yuan, H., Long, C. K., Lepage, H. V. & Barnes, C. H. Quantifying the advantages of applying
+      quantum approximate algorithms to portfolio optimisation. Quantum Science and Technology (2026)
+      doi:http://iopscience.iop.org/article/10.1088/2058-9565/ae4a48.
+
 keywords:
   - quantum optimisation
   - qaoa
